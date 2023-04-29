@@ -27,7 +27,6 @@ win.title("Calculater")
 win.config(bg="black")
 win.iconbitmap(r"F:\Calculator-icon.ico")
 win.geometry("380x470")
-# win.resizable(False,False)
 
 input = StringVar()
 e = Entry(win, font=("Time in romana", 25, "bold"), textvariable=input, justify="right")
