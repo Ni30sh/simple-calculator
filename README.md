@@ -27,7 +27,6 @@ win.title("Calculater")
 win.config(bg="black")
 win.iconbitmap(r"F:\Calculator-icon.ico")
 win.geometry("359x410")     # width x height
-# win.resizable(False,False)
 
 input = StringVar()
 
