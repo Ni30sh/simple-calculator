@@ -39,8 +39,9 @@ win.geometry("328x410")  # width x height
 
 input = StringVar()
 e = Entry(win, font=("Time in romana", 25, "bold"), textvariable=input, justify="right")
-e.place(x=5, y=5, height=90, width=318)
-
+e.place(x=5, y=50, height=48, width=318)
+label_title = Label(win, text="Calculator", font=("Times New Roman", 30, "bold"), bg="#ffbf00")
+label_title.place(x=1, y=0, height=48, width=360)
 # first row
 l2 = Button(win, text="c", font=("Time in romana", 25, "bold"), bg="sky blue", command=lambda: clean())
 l2.place(x=10, y=110, height=50, width=70)
@@ -88,3 +89,21 @@ f = Button(win, text="0", font=("Time in romana", 25, "bold"), bg="#c5ccd3", com
 f.place(x=90, y=350, height=50, width=70)
 
 win.mainloop()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
