@@ -33,9 +33,9 @@ statement = ""
 win = Tk()
 win.title("Calculater")
 win.config(bg="black")
-win.iconbitmap(r"F:\Calculator-icon.ico")
+# win.iconbitmap(r" ")
 win.geometry("328x410")  # width x height
-# win.resizable(False,False)
+win.resizable(False,False)
 
 input = StringVar()
 e = Entry(win, font=("Time in romana", 25, "bold"), textvariable=input, justify="right")
