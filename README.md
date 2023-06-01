@@ -51,4 +51,4 @@ Contributions to this calculator application are welcome. If you find any issues
 
 ## License
 
-The code in this repository is licensed under the [](LICENSE).
+The code in this repository is licensed under the [MIT License](LICENSE).
