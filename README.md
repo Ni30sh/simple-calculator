@@ -44,7 +44,7 @@ This is a simple calculator application implemented using Python's `tkinter` lib
 
 ![image](https://github.com/Ni30shkumar/calculator-code/assets/132122071/e8dcb678-5e9c-4727-8e9a-c9a960b3f05d)
 
-Include screenshots or GIFs here to demonstrate the calculator's usage if desired.
+
 
 ## Contributing
 Contributions to this calculator application are welcome. If you find any issues or want to add new features, please feel free to open an issue or submit a pull request.
